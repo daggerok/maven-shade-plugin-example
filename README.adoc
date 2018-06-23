@@ -2,7 +2,7 @@
 
 //tag::content[]
 
-This project contains example of `maven-assembly-plugin` usage
+This project contains example of `maven-shade-pluginn` usage
 
 Read link:https://daggerok.github.io/maven-shade-plugin-example[reference documentation]
 
